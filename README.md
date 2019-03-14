@@ -4,7 +4,3 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 ## manifest.plist should be edit the URL Setting
 http://localhost:8080/a.ipa
-
-# DotPlayer
-## Subscribe in DotPlayer
-https://raw.githubusercontent.com/relaxhuang/www/master/dotPlayer.json
