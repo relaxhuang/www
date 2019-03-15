@@ -1,6 +1,6 @@
 {
-	"uuid":"64350b50-a810-4901-b86b-146sf567",
-	"title": "TW Channel",
+	"uuid":"65250b50-a810-4901-b86b-146sf567",
+	"title": "TW_Channel",
 	"channels": [
 		{
 			"name":"1",
@@ -31,5 +31,4 @@
 			"url": "http://live2.ocnttv.com:8089/live1/hndy/list.m3u8"
 		}
 	]
-
 }
