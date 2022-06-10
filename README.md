@@ -5,9 +5,6 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 ## Install uYouPlus
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/relaxhuang/www/master/manifest_uYou%2B_sign.plist
 
-## Install Spotify
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/relaxhuang/www/master/manifest_Spotify_sign.plist
-
 ## Install Esign
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/relaxhuang/www/master/manifest_Esign_sign.plist
 
