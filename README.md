@@ -5,6 +5,12 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 ## Install uYouPlus
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/relaxhuang/www/master/manifest_uYou%2B_sign.plist
 
+## Install YTMusic Premium
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/relaxhuang/www/master/manifest_YTMP_sign.plist
+
+## Install SpotifyDeluxe
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/relaxhuang/www/master/manifest_SpotifyDeluxe_sign.plist
+
 ## Install Esign
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/relaxhuang/www/master/manifest_Esign_sign.plist
 
