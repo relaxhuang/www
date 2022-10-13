@@ -120,6 +120,19 @@
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 8499905
+        },{
+            "name": "H5GG dylib",
+            "bundleIdentifier": "N/A",
+            "developerName": "NA",
+            "version": "7.9",
+            "versionDate": "2022-08-23T00:00:00+08:00",
+            "versionDescription": "v7.9",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/H5GG_v7.9.deb",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/H5GG.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 463612
         },
     ]
 }
