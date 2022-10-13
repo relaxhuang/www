@@ -46,15 +46,15 @@
             "name": "Infuse",
             "bundleIdentifier": "com.firecore.infuse",
             "developerName": "NA",
-            "version": "7.4.5",
-            "versionDate": "2022-09-15T00:00:00+08:00",
-            "versionDescription": "Only Support under iOS 16",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Infuse_Pro_v7.4.5_unsign.ipa",
+            "version": "7.4.6",
+            "versionDate": "2022-10-12T00:00:00+08:00",
+            "versionDescription": "Only Support iOS 14 - 15",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Infuse_Pro_v7.4.6_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Infuse.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 42141487
+            "size": 42748433
         },{
             "name": "Infuse iOS 16",
             "bundleIdentifier": "com.firecore.infuse",
