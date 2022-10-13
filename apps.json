@@ -109,7 +109,7 @@
             "size": 162091998
         },{
             "name": "PostBox beta",
-            "bundleIdentifier": "com.simplycode.PostBox,
+            "bundleIdentifier": "com.simplycode.PostBox",
             "developerName": "NA",
             "version": "0.8.1",
             "versionDate": "2022-07-22T00:00:00+08:00",
