@@ -58,7 +58,7 @@
             "size": 58664990
         },{
             "name": "TikTok Dark",
-            "bundleIdentifier": "N/A",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
             "developerName": "NA",
             "version": "26.6.0",
             "versionDate": "2022-10-29T00:00:00+08:00",
@@ -71,9 +71,9 @@
             "size": 180269611
         },{
             "name": "Reddit Plus v2022",
-            "bundleIdentifier": "N/A",
+            "bundleIdentifier": "com.reddit.Reddit",
             "developerName": "NA",
-            "version": "39.0",
+            "version": "2022.39.0",
             "versionDate": "2022-10-27T00:00:00+08:00",
             "versionDescription": "v2022",
             "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/RedditPlus_v2022.39.0.ipa",
