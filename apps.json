@@ -109,19 +109,6 @@
             "isLanZouCloud": 0,
             "size": 41638569
         },{
-            "name": "TrollInstaller",
-            "bundleIdentifier": "com.opa334.TrollInstaller",
-            "developerName": "Opa334",
-            "version": "1.1.2",
-            "versionDate": "2022-10-03T00:00:00+08:00",
-            "versionDescription": "Only Support CoreTrust, it affects iOS 14.0 - 15.4.1",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TrollInstaller_v1.1.2_unsign.ipa",
-            "localizedDescription": "",
-            "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TrollInstaller.png",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 663650
-        },{
             "name": "iPogo - DirectLink from iPogo",
             "bundleIdentifier": "com.nianticlabs.pokemongo",
             "developerName": "NA",
