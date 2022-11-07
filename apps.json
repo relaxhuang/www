@@ -8,15 +8,15 @@
             "name": "Youtube",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "NA",
-            "version": "17.42.7",
-            "versionDate": "2022-10-29T00:00:00+08:00",
+            "version": "17.43.1",
+            "versionDate": "2022-11-06T00:00:00+08:00",
             "versionDescription": "uYou v2.1",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/uYouPlus_17.42.7_2.1_unsign.ipa",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/uYouPlus_17.43.1_2.1_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Youtube.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 114796308
+            "size": 115017943
         },{
             "name": "Youtube Music",
             "bundleIdentifier": "com.google.ios.youtubemusic",
@@ -138,15 +138,15 @@
             "name": "BiliBili",
             "bundleIdentifier": "tv.danmaku.bilianime",
             "developerName": "NA",
-            "version": "7.1.0",
-            "versionDate": "2022-10-13T00:00:00+08:00",
+            "version": "7.1.2",
+            "versionDate": "2022-11-05T00:00:00+08:00",
             "versionDescription": "",
             "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Bilibili_NoAds.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Bilibili.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 162091998
+            "size": 162012539
         },{
             "name": "PostBox beta",
             "bundleIdentifier": "com.simplycode.PostBox",
