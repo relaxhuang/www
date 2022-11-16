@@ -86,15 +86,15 @@
             "name": "Infuse iOS 16",
             "bundleIdentifier": "com.firecore.infuse",
             "developerName": "NA",
-            "version": "7.4.6",
-            "versionDate": "2022-10-14T00:00:00+08:00",
+            "version": "7.4.7",
+            "versionDate": "2022-11-12T00:00:00+08:00",
             "versionDescription": "Only Support iOS 16",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Infuse_Pro_v7.4.6_iOS16_unsign.ipa",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Infuse_Pro_v7.4.7_iOS16_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Infuse.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 41638569
+            "size": 40880169
         },{
             "name": "iPogo - DirectLink from iPogo",
             "bundleIdentifier": "com.nianticlabs.pokemongo",
