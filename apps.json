@@ -42,7 +42,7 @@
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Spotify.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 61,225,758
+            "size": 61225758
         },{
             "name": "TikTok Dark",
             "bundleIdentifier": "com.zhiliaoapp.musically",
