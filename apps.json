@@ -99,15 +99,15 @@
             "name": "iPogo - DirectLink from iPogo",
             "bundleIdentifier": "com.nianticlabs.pokemongo",
             "developerName": "NA",
-            "version": "0.255.1",
-            "versionDate": "2022-11-28T00:00:00+08:00",
-            "versionDescription": "v2.7.7",
-            "downloadURL": "https://ipogo.app/download/ipogo-2.7.7.ipa",
+            "version": "0.255.2",
+            "versionDate": "2022-12-12T00:00:00+08:00",
+            "versionDescription": "v2.7.8",
+            "downloadURL": "https://ipogo.app/download/ipogo-2.7.8.ipa",
             "localizedDescription": "",
             "iconURL": "https://ipogo.app/repo/CydiaIcon.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 118228598
+            "size": 118512858
         },{
             "name": "BiliBili",
             "bundleIdentifier": "tv.danmaku.bilianime",
