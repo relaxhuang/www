@@ -21,15 +21,15 @@
             "name": "Youtube Music",
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "NA",
-            "version": "5.36.2",
-            "versionDate": "2022-12-10T00:00:00+08:00",
+            "version": "5.38.3",
+            "versionDate": "2023-01-06T00:00:00+08:00",
             "versionDescription": "YTMusicUltimate v1.2.7",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/YouTube_Music_v5_36_2_1.2.7_unsign.ipa",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/YouTube_Music_v5_38_3_1.2.7_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/YoutubeMusic.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 64727705
+            "size": 63888827
         },{
             "name": "Spotify",
             "bundleIdentifier": "com.spotify.client",
