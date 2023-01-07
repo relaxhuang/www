@@ -9,14 +9,14 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "NA",
             "version": "17.49.6",
-            "versionDate": "2022-12-26T00:00:00+08:00",
-            "versionDescription": "uYou v2.1",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/uYouPlus_17.49.6_2.1_unsign.ipa",
+            "versionDate": "2023-01-07T00:00:00+08:00",
+            "versionDescription": "uYou v2.3.1",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/uYouPlus_17.49.6_2.3.1_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Youtube.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 116132778
+            "size": 116059757
         },{
             "name": "Youtube Music",
             "bundleIdentifier": "com.google.ios.youtubemusic",
