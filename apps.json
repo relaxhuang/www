@@ -8,15 +8,15 @@
             "name": "Youtube",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "NA",
-            "version": "18.02.1",
-            "versionDate": "2023-01-11T00:00:00+08:00",
-            "versionDescription": "uYou v2.3.1",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/uYouPlus_18.02.1_2.3.1_unsign.ipa",
+            "version": "18.01.6",
+            "versionDate": "2023-01-17T00:00:00+08:00",
+            "versionDescription": "uYou v2.3~1",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/uYouPlus_18.01.6_2.3.1_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Youtube.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 108765821
+            "size": 108856885
         },{
             "name": "Youtube Music",
             "bundleIdentifier": "com.google.ios.youtubemusic",
@@ -34,15 +34,15 @@
             "name": "Spotify",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "NA",
-            "version": "8.7.94",
-            "versionDate": "2022-12-21T00:00:00+08:00",
+            "version": "8.8.1",
+            "versionDate": "2023-01-17T00:00:00+08:00",
             "versionDescription": "",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Spotify_8.7.94_unsign.ipa",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Spotify_8.8.1_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Spotify.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 63417943
+            "size": 62502922
         },{
             "name": "TikTok Dark",
             "bundleIdentifier": "com.zhiliaoapp.musically",
