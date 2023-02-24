@@ -21,15 +21,15 @@
             "name": "Youtube Music",
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "NA",
-            "version": "5.43.1",
-            "versionDate": "2023-02-09T00:00:00+08:00",
+            "version": "5.45.1",
+            "versionDate": "2023-02-24T00:00:00+08:00",
             "versionDescription": "YTMusicUltimate v1.2.7",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/YouTube_Music_v5_43_1_1.2.7_unsign.ipa",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/YouTube_Music_v5_45_1_1.2.7_unsign.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/YoutubeMusic.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 64203295
+            "size": 62197498
         },{
             "name": "Spotify",
             "bundleIdentifier": "com.spotify.client",
@@ -47,28 +47,28 @@
             "name": "TikTok Dark",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "developerName": "NA",
-            "version": "27.9.0",
-            "versionDate": "2023-01-30T00:00:00+08:00",
-            "versionDescription": "v27.9.0",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TikTok-v27.9.0-Dark.ipa",
+            "version": "28.1.0",
+            "versionDate": "2023-02-24T00:00:00+08:00",
+            "versionDescription": "v28.1.0",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TikTok-v28.1.0-Dark.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TikTok.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 157852923
+            "size": 227925817
         },{
             "name": "TikTok LRD",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "developerName": "NA",
-            "version": "28.1.0",
-            "versionDate": "2023-02-10T00:00:00+08:00",
-            "versionDescription": "v28.1.0",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TikTok-v28.1.0-LRD.ipa",
+            "version": "28.2.0",
+            "versionDate": "2023-02-24T00:00:00+08:00",
+            "versionDescription": "v28.2.0",
+            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TikTok-v28.2.0-LRD.ipa",
             "localizedDescription": "",
             "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/TikTok.png",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 217151010
+            "size": 163526002
         },{
             "name": "Reddit Plus v2023",
             "bundleIdentifier": "com.reddit.Reddit",
