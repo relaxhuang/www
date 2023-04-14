@@ -18,19 +18,6 @@
             "isLanZouCloud": 0,
             "size": 111605806
         },{
-            "name": "Youtube KillerPlus+",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "NA",
-            "version": "18.13.4",
-            "versionDate": "2023-04-14T00:00:00+08:00",
-            "versionDescription": "YTKillerPlus v2.2.8r",
-            "downloadURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/YTKiller++_18.13.4_2.2.8r_unsign.ipa",
-            "localizedDescription": "",
-            "iconURL": "https://github.com/relaxhuang/www/releases/download/v1.0.0/Youtube.png",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 95687731 
-        },{
             "name": "Youtube Music",
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "NA",
